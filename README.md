@@ -55,6 +55,18 @@ web-page-analyzer/
 ├── requirements.txt       # Project dependencies
 ├── README.md              # Project documentation
 
+## Demo
+
+[Live Demo on Streamlit Cloud](https://md-sakibislam-web-analyzer.streamlit.app)
+
+## Screenshots
+
+### Homepage
+![Homepage](images/screenshot1.png)
+
+### After URL Analysis
+![Results](images/screenshot2.png)
+
 
 ## 🤝 Contributing
 
