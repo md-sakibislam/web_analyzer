@@ -34,10 +34,9 @@ The app also detects the language of the text, performs word frequency analysis,
 
 Run the Streamlit app:
 
-streamlit run web_analyzer.py
-
-Enter a URL in the input box and click **Analyze**.
-The app will display the extracted information and analysis results.
+- streamlit run web_analyzer.py
+- Enter a URL in the input box and click **Analyze**.
+- The app will display the extracted information and analysis results.
 
 ## 🛠 Tech Stack
 
