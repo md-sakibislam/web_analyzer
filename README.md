@@ -23,8 +23,8 @@ The app also detects the language of the text, performs word frequency analysis,
 ## 📦 Installation
 
 1. Clone the repo:
-   git clone https://github.com/yourusername/web-page-analyzer.git
-   cd web-page-analyzer
+   git clone https://github.com/md-sakibislam/web_analyzer.git
+   cd web_analyzer
 
 2. Install dependencies:
    pip install -r requirements.txt
@@ -75,7 +75,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## 📞 Contact
 
-Your Name — MD. Sakib Islam | sakibae.007@gmail.com
+Your Name — MD. Sakib Islam | md-sakibislam@users.noreply.github.com
 
 Project Link: https://github.com/md-sakibislam/web_analyzer
 
