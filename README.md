@@ -62,10 +62,10 @@ web-page-analyzer/
 ## Screenshots
 
 ### Homepage
-![Homepage](images/screenshot1.png)
+![Homepage](.assets/screenshot1.png)
 
 ### After URL Analysis
-![Results](images/screenshot2.png)
+![Results](.assets/screenshot2.png)
 
 
 ## 🤝 Contributing
