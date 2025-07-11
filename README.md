@@ -77,6 +77,6 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Your Name — MD. Sakib Islam | sakibae.007@gmail.com
 
-Project Link: 
+Project Link: https://github.com/md-sakibislam/web_analyzer
 
 
