@@ -48,13 +48,6 @@ Run the Streamlit app:
 * [langdetect](https://pypi.org/project/langdetect/)
 
 
-## 📁 Project Structure
-
-web-page-analyzer/
-├── web_analyzer.py        # Main Streamlit application script
-├── requirements.txt       # Project dependencies
-├── README.md              # Project documentation
-
 ## Demo
 
 [Live Demo on Streamlit Cloud](https://md-sakibislam-web-analyzer.streamlit.app)
