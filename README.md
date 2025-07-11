@@ -23,12 +23,12 @@ The app also detects the language of the text, performs word frequency analysis,
 ## 📦 Installation
 
 1. Clone the repo:
-   git clone https://github.com/md-sakibislam/web_analyzer.git
-   cd web_analyzer
+   - git clone https://github.com/md-sakibislam/web_analyzer.git
+   - cd web_analyzer
 
 2. Install dependencies:
-   pip install -r requirements.txt
-   python -m textblob.download_corpora
+   - pip install -r requirements.txt
+   - python -m textblob.download_corpora
 
 ## 🎯 Usage
 
